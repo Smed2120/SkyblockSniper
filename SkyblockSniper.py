@@ -139,3 +139,44 @@ def dostuff():
 
 while True:
     dostuff()
+C:/Users'     ^pip install -r ,Downloads/SkyblockSniper-main/requirments.txt
+C:/Users'     ^python C:/Users         /Downloads/SkyblockSniper-main/SkyblockSniper-main/SkyblockSniper.py
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
